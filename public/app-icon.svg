@@ -1,0 +1,14 @@
+<!-- public/app-icon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#3b82f6"></stop>
+      <stop offset="1" stop-color="#22c55e"></stop>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="32" width="448" height="448" rx="96" fill="url(#g)"></rect>
+  <circle cx="256" cy="256" r="148" fill="rgba(255,255,255,0.18)"></circle>
+  <path d="M256 132c8 0 14 6 14 14v106l70 42c7 4 9 13 5 19-4 7-13 9-19 5l-77-46c-4-3-7-7-7-12V146c0-8 6-14 14-14z" fill="#ffffff"></path>
+  <path d="M160 150l-26-22c-6-5-7-14-2-20 5-6 14-7 20-2l26 22c6 5 7 14 2 20-5 6-14 7-20 2z" fill="rgba(255,255,255,0.85)"></path>
+  <path d="M352 150c-6 5-15 4-20-2-5-6-4-15 2-20l26-22c6-5 15-4 20 2 5 6 4 15-2 20l-26 22z" fill="rgba(255,255,255,0.85)"></path>
+</svg>

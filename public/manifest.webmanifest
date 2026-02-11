@@ -1,0 +1,19 @@
+
+{
+  "name": "Alert Events",
+  "short_name": "Alerts",
+  "description": "Team reminders from Google Sheets • calendar exports • mobile-first",
+  "theme_color": "#0b1220",
+  "background_color": "#0b1220",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
